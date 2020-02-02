@@ -1,24 +1,7 @@
 # tokio2020
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Proyecto desarrollado para la asignatura de Desarrollo en Entornos Cliente y Diseño de Interfaces Web
+## Vista principal
+![Captura1](https://github.com/davidmpuyol/tokio2020/blob/master/captura.jpg "Vista principal")
+Proyecto realizado con VueJS y Bootstrap
+## Enlace producción
+https://davidmpuyol.github.io/Tokio2020-Prod/
